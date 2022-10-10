@@ -1,0 +1,27 @@
+.container {
+    display: inline-block;
+    width: 100%;
+}
+
+.row {
+
+}
+
+.row-short {
+float: left;
+width: 600px;
+margin-left: calc(50% - 300px);
+background-color: pink;
+}
+
+.main-content {
+
+}
+
+.left-column {
+
+}
+
+.right-column {
+    
+}
