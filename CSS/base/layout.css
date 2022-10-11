@@ -28,12 +28,15 @@ margin-left: calc(50% - 300px);
 background-color: pink;
 }
 
+.main-content {
+    display: flex;
+    justify-content: space-between;
+}
 .left-column {
-float: left;
 width: 50%;
+
 }
 
-.righ-column {
-    float: left;
-    width: 50%;
+.right-column {
+    width: 40%;
 }
